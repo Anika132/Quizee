@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Quizee/static/css/main.f293264b.chunk.css",
-    "main.js": "/Quizee/static/js/main.303a2858.chunk.js",
-    "main.js.map": "/Quizee/static/js/main.303a2858.chunk.js.map",
+    "main.css": "/Quizee/static/css/main.e472628d.chunk.css",
+    "main.js": "/Quizee/static/js/main.b73afe68.chunk.js",
+    "main.js.map": "/Quizee/static/js/main.b73afe68.chunk.js.map",
     "runtime-main.js": "/Quizee/static/js/runtime-main.f5aa8cd2.js",
     "runtime-main.js.map": "/Quizee/static/js/runtime-main.f5aa8cd2.js.map",
     "static/js/2.2ab03ea3.chunk.js": "/Quizee/static/js/2.2ab03ea3.chunk.js",
     "static/js/2.2ab03ea3.chunk.js.map": "/Quizee/static/js/2.2ab03ea3.chunk.js.map",
     "index.html": "/Quizee/index.html",
-    "precache-manifest.84dc7dd3cc168fe80a9d361eac22f99b.js": "/Quizee/precache-manifest.84dc7dd3cc168fe80a9d361eac22f99b.js",
+    "precache-manifest.aad3e3f26cb2988a82e32643e5af22ae.js": "/Quizee/precache-manifest.aad3e3f26cb2988a82e32643e5af22ae.js",
     "service-worker.js": "/Quizee/service-worker.js",
-    "static/css/main.f293264b.chunk.css.map": "/Quizee/static/css/main.f293264b.chunk.css.map",
+    "static/css/main.e472628d.chunk.css.map": "/Quizee/static/css/main.e472628d.chunk.css.map",
     "static/media/1.png": "/Quizee/static/media/1.296126d2.png",
     "static/media/t3.jpg": "/Quizee/static/media/t3.4d50ff36.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5aa8cd2.js",
     "static/js/2.2ab03ea3.chunk.js",
-    "static/css/main.f293264b.chunk.css",
-    "static/js/main.303a2858.chunk.js"
+    "static/css/main.e472628d.chunk.css",
+    "static/js/main.b73afe68.chunk.js"
   ]
 }
